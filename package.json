@@ -1,0 +1,21 @@
+{
+  "name": "plain-ng2now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "live-server --entry-file=index.html --port=3200"
+  },
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular2-now": "^1.1.0",
+    "typescript": "^1.7.5",
+    "systemjs": "^0.19.9"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^0.9.0"
+  }
+}
